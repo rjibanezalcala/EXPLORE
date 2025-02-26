@@ -5,9 +5,9 @@
 
 <h1 id="welcome-to-explore">Welcome to EXPLORE!</h1>
 <p>EXPLORE stands for microElectrode eXperimental kit with Probe LOcation Rationalization in Electrophysiology. EXPLORE is an open-source collection of 3D-printed devices and protocols which aim to provide neuroscientists tools, methods, and guidelines to carry out electrophysiological experiments in rodents.</p>
-<p><a href="https://www.biorxv.org">Find us in BioRxv!</a></p>
 <p>Herein, we provide 3D-printable files for our custom-made, modular, adjustable chronic implant designed to house one or two microelectrode array probes (such as the <a href="https://www.neuropixels.org">Neuropixels probes</a> or <a href="https://plexon.com/products/neural-electrodes-probes-and-arrays/">Plexon probes</a>). You will also find our custom “implant accessories”, including our implant stereotaxic holder, assembly kit, and testing kit. Last, but not least, we have designed KEPLER, a precision screwdriver which aims to assist in making micrometer-adjustments to the vertical position of the probe(s) as they are slowly introduced into the brain tissue within the implant.</p>
 <p>Everything in this repository can be printed completely in-house with a consumer-grade SLA 3D printer. FDM printing is not recommended as the resulting print may not be durable or smooth enough to function correctly. We have printed and tested our implant using a <a href="https://www.formlabs.com">Formlabs</a> printer and Tough 2000 resin; Preform project files are provided herein. Other printers and/or similarly tough resins should theoretically work just as well, but we have not tested this.</p>
+<p><a href="https://www.biorxv.org">Find us in BioRxv!</a></p>
 <h2 id="cami-our-chronic-adjustable-and-modular-implant">CAMI: our Chronic, Adjustable, and Modular Implant</h2>
 <center><img src="https://github.com/rjibanezalcala/EXPLORE/blob/3c2e7f5207e000063c37b04d1457bae0fc632fde/3D_RENDERS/Fig1A_Implant-whole.png" width="400px" height="400px"></center>
 <p>Our chronic implant consists of five main parts: the skull interface, implant body, shuttle, headstage interface, and cap. Each piece is functionally (mostly) independent from the next and provides a solution to a specific problem; because of this, our implant is modular. Modularity is the biggest strength of our implant as it facilitates quick, pin-pointed modifications to adapt the implant to different needs. The implant uses a screw mechanism to push the probe(s) vertically within the implant.</p>
@@ -47,7 +47,13 @@
 <center><img src="https://github.com/rjibanezalcala/EXPLORE/blob/b6641ede703a80d4e328fd172405f2af535d98dc/3D_RENDERS/SuppFig2E_Testing-implant-on-stereotax.png" width="400px" height="400px"></center>
 <center><img src="https://github.com/rjibanezalcala/EXPLORE/blob/b6641ede703a80d4e328fd172405f2af535d98dc/3D_RENDERS/SuppFig2F_Testing-probes-only.png" width="400px" height="400px"></center>
 <p><a href="">Take me there!</a></p>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+<hr>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" width="51px" height="42px" align="center"> All 3D files provided within this repository were made from scratch in Blender 3.4.0.</p>
+<p>Additional 3D assets pictured in <a href="https://github.com/rjibanezalcala/EXPLORE/tree/6d3b0f511474fb4baaf2f610220c143b38338c0d/3D_RENDERS">rendered images</a> such as fastenings (screws, nuts, and threaded inserts) and Neuropixels probes (1.0 and 2.0) were downloaded free of charge; sources are listed below.</p>
+<ul>
+<li><a href="https://hhmi.flintbox.com/technologies/018e9ed4-bc90-498e-a442-1853e33a690a">3D modelled Neuropixels 1.0 probe provided by Svoboda and Harris Labs</a></li>
+<li><a href="https://hhmi.flintbox.com/technologies/efa0484d-5343-4b62-8142-d09de5341c43">3D modelled Neuropixels 2.0 probe provided by Svoboda and Harris Labs</a></li>
+<li><a href="https://mcmaster.com">3D modelled fastenings provided by McMasterCarr</a></li>
+</ul>
+<p>Headstage 3D models pictured were hand-modelled from scratch and represent the <a href="https://github.com/open-ephys/onix-headstage-neuropix1">Open Ephys ONIX Neuropixels 1.0 headstage</a>, and the <a href="https://www.neuropixels.org/probes-np1-0">Neuropixels 1.0 headstage</a> with approximate dimensions.</p>
 
