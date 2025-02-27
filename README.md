@@ -58,6 +58,6 @@
 <li><a href="https://hhmi.flintbox.com/technologies/efa0484d-5343-4b62-8142-d09de5341c43">3D modelled Neuropixels 2.0 probe provided by Svoboda and Harris Labs</a></li>
 <li><a href="https://mcmaster.com">3D modelled fastenings provided by McMasterCarr</a></li>
 </ul>
-<p>Headstage 3D models pictured were hand-modelled from scratch and represent the <a href="https://github.com/open-ephys/onix-headstage-neuropix1">Open Ephys ONIX Neuropixels 1.0 headstage</a>, and the <a href="https://www.neuropixels.org/probes-np1-0">Neuropixels 1.0 headstage</a> with approximate dimensions.</p>
+<p>All headstage 3D models pictured were hand-modelled from scratch and represent the <a href="https://github.com/open-ephys/onix-headstage-neuropix1">Open Ephys ONIX Neuropixels 1.0 headstage</a>, and the <a href="https://www.neuropixels.org/probes-np1-0">Neuropixels 1.0 headstage</a> with approximate dimensions. Their only purpose was to aid in the design, 3D modelling, and testing of the implants; <a href="https://github.com/rjibanezalcala/EXPLORE/tree/8049b335174be6d445f9110f4b5e6c4adbbae4cc/DUMMY_HEADSTAGES">they can be found here</a>.</p>
 <p><a href="https://skfb.ly/6BBGs">Coin model and textures provided by MilaHigher</a> under Creative Commons Attribution License.  Model was upscaled to 24.26 mm diameter and 1.75 mm thickness to match USD quarter.</p>
 
