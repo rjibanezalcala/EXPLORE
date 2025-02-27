@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <h1 id="welcome-to-explore">Welcome to EXPLORE!</h1>
 <p>EXPLORE stands for microElectrode eXperimental kit with Probe LOcation Rationalization in Electrophysiology. EXPLORE is an open-source collection of 3D-printed devices and protocols which aim to provide neuroscientists tools, methods, and guidelines to carry out electrophysiological experiments in rodents.</p>
 <p>Here we provide 3D-printable files for our custom-made, modular, adjustable chronic implant designed to house one or two microelectrode array probes (such as the <a href="https://www.neuropixels.org">Neuropixels probes</a> or <a href="https://plexon.com/products/neural-electrodes-probes-and-arrays/">Plexon probes</a>). You will also find our custom “implant accessories”, including our implant stereotaxic holder, assembly kit, and testing kit. Last, but not least, we have designed KEPLER, a precision screwdriver which aims to assist in making micrometer-adjustments to the vertical position of the probe(s) as they are slowly introduced into the brain tissue within the implant.</p>
