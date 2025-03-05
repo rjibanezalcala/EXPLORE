@@ -8,7 +8,7 @@
 <p>Here we provide 3D-printable files for our custom-made, modular, adjustable chronic implant designed to house one or two microelectrode array probes (such as the <a href="https://www.neuropixels.org">Neuropixels probes</a> or <a href="https://plexon.com/products/neural-electrodes-probes-and-arrays/">Plexon probes</a>). You will also find our custom “implant accessories”, including our implant stereotaxic holder, assembly kit, and testing kit. Last, but not least, we have designed KEPLER, a precision screwdriver which aims to assist in making micrometer-adjustments to the vertical position of the probe(s) as they are slowly introduced into the brain tissue within the implant.</p>
 <p>Everything in this repository can be printed completely in-house with a consumer-grade SLA 3D printer. FDM printing is not recommended as the resulting print may not be durable or smooth enough to function correctly. We have printed and tested our implant using a <a href="https://www.formlabs.com">Formlabs</a> printer and Tough 2000 resin; Preform project files are provided herein. Other printers and/or similarly tough resins should theoretically work just as well, but we have not tested this.</p>
 <p align="center">
-<b>Find us on BioRxiv!</b>
+<b><a href="https://doi.org/10.1101/2025.02.27.640674">Find us on BioRxiv!</a></b>
 <br>
 <a href="https://doi.org/10.1101/2025.02.27.640674"><img src="https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png" width="122px" height="42px" align="center"></a>
 </p>
