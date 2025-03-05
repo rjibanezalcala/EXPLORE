@@ -9,10 +9,9 @@
 <p>Everything in this repository can be printed completely in-house with a consumer-grade SLA 3D printer. FDM printing is not recommended as the resulting print may not be durable or smooth enough to function correctly. We have printed and tested our implant using a <a href="https://www.formlabs.com">Formlabs</a> printer and Tough 2000 resin; Preform project files are provided herein. Other printers and/or similarly tough resins should theoretically work just as well, but we have not tested this.</p>
 <p align="center">
 <b>Find us on BioRxiv!</b>
-</p><center>
+<br>
 <a href="https://doi.org/10.1101/2025.02.27.640674"><img src="https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png" width="122px" height="42px" align="center"></a>
-</center>
-<p></p>
+</p>
 <h2 id="cami-our-chronic-adjustable-and-modular-implant">CAMI: our Chronic, Adjustable, and Modular Implant</h2>
 <p align="center"><img src="https://github.com/rjibanezalcala/EXPLORE/blob/3c2e7f5207e000063c37b04d1457bae0fc632fde/3D_RENDERS/Fig1A_Implant-whole.png" width="400px" height="400px"></p>
 <p><a href="https://github.com/rjibanezalcala/EXPLORE/tree/9734e33baba4d4b4137d461dfe143eeaee72ebce/IMPLANTS">Our chronic implant</a> consists of five main parts: the skull interface, implant body, shuttle, headstage interface, and cap. Each piece is functionally (mostly) independent from the next and provides a solution to a specific problem; because of this, our implant is modular. Modularity is the biggest strength of our implant as it facilitates quick, pin-pointed modifications to adapt the implant to different needs. The implant uses a screw mechanism to push the probe(s) vertically within the implant.</p>
