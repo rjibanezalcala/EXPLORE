@@ -9,6 +9,8 @@ The figures were generated using code and data contained in the individual_spike
 The figures were generated using code and data contained in the per-day_channels directory.
 
 ### Dependencies
-Python code was written in Anaconda 23.7.2 running Python 3.9.12 64-bit | Qt 5.15.2 | PyQt5 5.15.7 on Spyder IDE 5.4.3
+Python code was written in Anaconda 23.7.2 running Python 3.9.12 64-bit | Qt 5.15.2 | PyQt5 5.15.7 on Spyder IDE 5.4.3.
+
 Matlab code was written in MatLab2023b with the Database Toolbox (23.2), open-ephys-matlab-tools (13.0.0), Parallel computing Toolbox (23.2), Signal Processing Toolbox (223.2), and Statistics and Machine Learning Toolbox (23.2) add-ons installed. However it is unlikely these add-ons are needed for code execution.
+
 All code was written in Windows 10 Pro.
